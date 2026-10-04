@@ -1,13 +1,13 @@
 {
-  "manifest_version": 1,
+  "manifest_version": 2,
   "version": "1.0",
   "name": "Frieren (Dark Mode Animated)",
   "theme": {
     "images": {
-      "theme_frame": "images/2.png",
+      "theme_frame": "images/0.png",
       "additional_backgrounds": [
         "images/1.png",
-        "images/0.png"
+        "images/2.png"
       ]
     },
     "colors": {
@@ -16,7 +16,7 @@
     },
     "properties": {
       "additional_backgrounds_alignment": [
-        "left top",
+        "center top",
         "right top"
       ],
       "additional_backgrounds_tiling": [
